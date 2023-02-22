@@ -1,6 +1,7 @@
 ############################################################################################################
 #Analysis Stuck on the last: the last-presented benefit as an index of attentional refreshing in adolescents
 ###########################################################################################################
+#paper: https://doi.org/10.3390/jintelligence11010004
 
 rm(list = ls(all.names = TRUE))
 
